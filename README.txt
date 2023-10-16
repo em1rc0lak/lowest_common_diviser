@@ -1,0 +1,1 @@
+This is my approach to find the lowest common multiple using greatest common divider algorithm
